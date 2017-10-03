@@ -1,0 +1,9 @@
+C:\Users\matt\source\repos\TobiiPiper\TobiiPiper\bin\x86\Debug\Tobii.EyeX.Client.dll
+C:\Users\matt\source\repos\TobiiPiper\TobiiPiper\bin\x86\Debug\TobiiPiper.exe.config
+C:\Users\matt\source\repos\TobiiPiper\TobiiPiper\bin\x86\Debug\TobiiPiper.exe
+C:\Users\matt\source\repos\TobiiPiper\TobiiPiper\bin\x86\Debug\TobiiPiper.pdb
+C:\Users\matt\source\repos\TobiiPiper\TobiiPiper\bin\x86\Debug\Tobii.Interaction.Model.dll
+C:\Users\matt\source\repos\TobiiPiper\TobiiPiper\bin\x86\Debug\Tobii.Interaction.Net.dll
+C:\Users\matt\source\repos\TobiiPiper\TobiiPiper\obj\x86\Debug\TobiiPiper.csproj.CoreCompileInputs.cache
+C:\Users\matt\source\repos\TobiiPiper\TobiiPiper\obj\x86\Debug\TobiiPiper.exe
+C:\Users\matt\source\repos\TobiiPiper\TobiiPiper\obj\x86\Debug\TobiiPiper.pdb
